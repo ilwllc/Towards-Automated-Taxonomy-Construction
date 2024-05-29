@@ -7,11 +7,13 @@ Description
 -----------
 This project contains the files to generate the figures in the Towards Automated Taxonomy Construction blog https://ilwllc.com/2024/05/towards-automated-taxonomy-construction/, which describes a method of generating taxonomies from a series of SQL queries.
 
-It contains the following files and directories:
+It contains the following directories:
 
-data: includes json files containing data used within Finegan-Dollak, Catherine, et al. "Improving text-to-sql evaluation methodology." arXiv preprint arXiv:1806.09029 (2018) and the SPIDER data set (Yu, Tao, et al. "Spider: A large-scale human-labeled dataset for complex and cross-domain semantic parsing and text-to-sql task." arXiv preprint arXiv:1809.08887 (2018).
-examples: png files generated assuming simple toy taxonomy, used to demonstrate our methodology
-graph_png_files: png files of the taxonomies generated using the methodology described in the blog
+  data: includes json files containing data used within Finegan-Dollak, Catherine, et al. "Improving text-to-sql evaluation methodology." arXiv preprint arXiv:1806.09029 (2018) and the SPIDER data set (Yu, Tao, et al. "Spider: A large-scale human-labeled dataset for complex and cross-domain semantic parsing and text-to-sql task." arXiv preprint arXiv:1809.08887 (2018).
+
+  examples: png files generated assuming simple toy taxonomy, used to demonstrate our methodology
+
+  graph_png_files: png files of the taxonomies generated using the methodology described in the blog
 taxonomy.ipynb: jupyter notebook that generates the diagrams in the blog
 
 
