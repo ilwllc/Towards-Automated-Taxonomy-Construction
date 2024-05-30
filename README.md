@@ -5,7 +5,7 @@ Towards Automated Taxonomy Construction
 
 Description
 -----------
-This project contains the files to generate the figures in the Towards Automated Taxonomy Construction blog https://ilwllc.com/2024/05/towards-automated-taxonomy-construction/, which describes a method of generating taxonomies from a series of SQL queries.
+This project contains the files to generate the figures in the Towards Automated Taxonomy Construction blog https://ilwllc.com/2024/05/toward-automated-taxonomy-construction-article/, which describes a method of generating taxonomies from a series of SQL queries.
 
 It contains the following directories:
 
